@@ -1,9 +1,11 @@
-# Hi, I'm Prathamesh Chavan 👋
+# Hi, I'm Prathamesh Chavan 👋 
 
-<!-- Short introduction about yourself -->
-<!-- 🔭 I'm currently working on [brief description of current projects or focus area]. -->
-- 🌱 I'm currently learning Ruby on Rails, AWS, and Deployment Pipelines.
-- 📫 How to reach me: [prathameshlchavan@gmail.com].
+I am a Full-Stack Developer passionate about building scalable web applications and optimizing deployment workflows.
+
+- 🔭 I’m currently working on building a **SaaS platform** using **Ruby on Rails** and **React**.
+- 🌱 I’m currently deepening my knowledge in **AWS (EC2, RDS, Lambda)** and **CI/CD Pipelines**.
+- 💬 Ask me about **Java/Spring Boot** or **Full-stack architecture**.
+- 📫 How to reach me: [prathameshlchavan@gmail.com](mailto:prathameshlchavan@gmail.com)
 
 ---
 
@@ -27,28 +29,18 @@
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Amazon S3](https://img.shields.io/badge/-Amazon%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
 
-<!-- Add more badges as needed -->
+---
+
+### 🔥 GitHub Stats
+
+<p align="left">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=prathameshchavan27&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathameshchavan27&layout=compact&theme=dark" />
+</p>
 
 ---
 
-### 🔥 My GitHub Stats
-
-<!-- Replace 'YOUR_USERNAME' with your actual GitHub username -->
-<!-- You can customize themes and options on https://github.com/anuraghazra/github-readme-stats -->
-
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=prathameshchavan27&show_icons=true&theme=dark&include_all_commits=true&count_private=true)](https://github.com/prathameshchavan27/github-readme-stats)
-
-<!-- Optional: Add a Top Languages card -->
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prathameshchavan27&layout=compact&theme=dark)](https://github.com/prathameshchavan27/github-readme-stats)
-
----
-
-### Connect with me
-
-<!-- Replace 'YOUR_LINKEDIN_USERNAME' and 'YOUR_TWITTER_USERNAME' with your actual social media handles -->
-<!-- You can find more icons and badges at Simple Icons (https://simpleicons.org/) or Shields.io (https://shields.io/) -->
+### 🤝 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prathameshlchavan27)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER_USERNAME)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prathameshlchavan@gmail.com)
-<!-- Add more social links as needed -->
